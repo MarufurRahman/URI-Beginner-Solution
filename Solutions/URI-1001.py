@@ -1,5 +1,5 @@
 # URI Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
-# Programmed by Marufur Rahman.
+# Programmed by Marufur Rahman
 
 A = int(input())
 B = int(input())
