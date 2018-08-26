@@ -8,3 +8,4 @@ URI beginner problem solutions.
 * [URI Problem 1005](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1005.py)
 * [URI Problem 1006](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1006.py)
 * [URI Problem 1007](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1007.py)
+* [URI Problem 1008](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1008.py)
