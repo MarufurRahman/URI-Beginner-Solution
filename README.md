@@ -10,3 +10,4 @@ URI beginner problem solutions.
 * [URI Problem 1007](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1007.py)
 * [URI Problem 1008](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1008.py)
 * [URI Problem 1009](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1009.py)
+* [URI Problem 1010](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1010.py)
