@@ -12,3 +12,4 @@ URI beginner problem solutions.
 * [URI Problem 1009](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1009.py)
 * [URI Problem 1010](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1010.py)
 * [URI Problem 1011](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1011.py)
+* [URI Problem 1012](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1012.py)
