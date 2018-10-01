@@ -16,3 +16,4 @@ In this repository i'll add some solution of beginner problems on URI Online Jud
 * [URI Problem 1013](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1013.py)
 * [URI Problem 1014](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1014.py)
 * [URI Problem 1015](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1015.py)
+* [URI Problem 1016](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1016.py)
