@@ -17,5 +17,5 @@ In this repository i will add some solution of beginner problems on URI Online J
 * [URI Problem 1014](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1014.py)
 * [URI Problem 1015](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1015.py)
 * [URI Problem 1016](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1016.py)
-# U	RI link
+# URI link
 [Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1)
