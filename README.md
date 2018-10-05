@@ -1,5 +1,5 @@
 # URI-Beginner-Solution
-In this repository i'll add some solution of beginner problems on URI Online Judge.
+In this repository i will add some solution of beginner problems on URI Online Judge.
 # Solutions
 * [URI Problem 1001](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1001.py)
 * [URI Problem 1002](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1002.py)
@@ -17,3 +17,5 @@ In this repository i'll add some solution of beginner problems on URI Online Jud
 * [URI Problem 1014](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1014.py)
 * [URI Problem 1015](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1015.py)
 * [URI Problem 1016](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1016.py)
+# U	RI link
+[Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1)
