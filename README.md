@@ -18,5 +18,6 @@ In this repository i will add some solution of beginner problems of URI Online J
 * [URI Problem 1015](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1015.py)
 * [URI Problem 1016](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1016.py)
 * [URI Problem 1017](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1017.py)
+* [URI Problem 1018](https://github.com/MarufurRahman/URI-Beginner-Solution/blob/master/Solutions/URI-1018.cpp)
 # URI link
 [Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1)
